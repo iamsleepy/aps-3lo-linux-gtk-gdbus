@@ -1,0 +1,9 @@
+[Desktop Entry] 
+Name=APSShellDemo
+Comment=Demo for shell launching with Linux
+GenericName=APSShelldemo
+Exec=YourPathToExec %U
+Type=Application
+StartupNotify=true
+Categories=Development
+MimeType=x-scheme-handler/apsshelldemo;
